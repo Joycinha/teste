@@ -1,0 +1,126 @@
+﻿2019-10-11T13:00:32.6545180-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-11T13:00:32.6545180-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-11T13:00:32.6545180-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-11T13:00:32.6964061-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T13:00:32.6964061-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults" (default)
+2019-10-11T13:00:32.6974035-03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-11T13:00:32.7103419-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-11T130032.log
+2019-10-11T13:00:32.7183473-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-11T13:00:32.7223369-03:00;Thread#13;Info;Checking license
+2019-10-11T13:00:32.7333120-03:00;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-10-11T13:00:44.7343847-03:00;Thread#13;Info;Evaluation delay finished.
+2019-10-11T13:00:44.7383347-03:00;Thread#13;Info;License check completed
+2019-10-11T13:00:44.7383347-03:00;Thread#13;Info;starting test run
+2019-10-11T13:00:44.7443186-03:00;Thread#13;Info;Discovering target: Default
+2019-10-11T13:00:44.7443186-03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T13:00:44.9836791-03:00:Appdomain Disposed
+2019-10-11T13:00:44.9846758-03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T13:00:44.9846758-03:00:Test Suite Dump
+2019-10-11T13:00:44.9856732-03:00:#0: Unnamed project/ - 
+2019-10-11T13:00:44.9856732-03:00:#1: Default - 
+2019-10-11T13:00:44.9856732-03:00:#2: TesteJoyce - 
+2019-10-11T13:00:44.9856732-03:00:#3: Pesquisa de passagem - 
+2019-10-11T13:00:45.0096362-03:00:#4: Pesquisar passagem com menor tarifa para dois adultos - TestAssembly:TesteJoyce/Feature:Pesquisa+de+passagem/Scenario:Pesquisar+passagem+com+menor+tarifa+para+dois+adultos
+2019-10-11T13:00:45.0096362-03:00:End: Test Suite Dump
+2019-10-11T13:00:45.0255879-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-11T13:00:45.0275906-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-11T13:00:45.0275906-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-11T13:00:45.0305593-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-11T13:00:45.0305593-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-11T13:00:45.0305593-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-11T13:00:45.0305593-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-11T13:00:45.0315779-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-11T13:00:45.0315779-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-11T13:00:45.0335725-03:00:Thread #0: creating new test thread executor for TesteJoyce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-11T13:00:45.0365379-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-11T13:00:45.0365379-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-11T13:00:45.0375339-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-11T13:00:45.0894240-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-11T13:00:45.2479733-03:00:Thread#0:T:-> Loading plugin C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-11T13:00:45.2519915-03:00:Thread#0:T:-> Using default config
+2019-10-11T13:00:45.3098338-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-11T13:00:51.7294293-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (6,3s)
+2019-10-11T13:00:51.7304264-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-11T13:01:02.1701571-03:00:Thread#0:T:error: Timed out after 10 seconds
+2019-10-11T13:01:02.1701571-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-11T13:01:02.1711543-03:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'TesteJoyce:TesteJoyce.PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta(Table)' should have 0 parameters
+2019-10-11T13:01:02.1711543-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-11T13:01:02.1721517-03:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'TesteJoyce:TesteJoyce.PesquisaDePassagemSteps.QuandoSelecionoAQuantidadeDePassageiros(Table)' should have 0 parameters
+2019-10-11T13:01:02.1721517-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-11T13:01:02.1721517-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T13:01:02.1721517-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-11T13:01:02.1721517-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T13:01:02.2000762-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-11T13:01:02.2010736-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-11T13:01:02.2010736-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-11T13:01:02.2010736-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-11T13:01:02.2010736-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-11T13:01:02.2010736-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-11T13:01:02.2010736-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-11T13:01:02.2010736-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-11T13:01:02.2010736-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-11T13:01:02.2010736-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-11T13:01:02.2110478-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 17,1196583 seconds
+2019-10-11T13:01:02.2120455-03:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-11T13:01:02.2120455-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-11T13:01:04.6881623-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (2,5s)
+2019-10-11T13:01:04.6881623-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-11T13:01:15.1130632-03:00:Thread#0:T:error: Timed out after 10 seconds
+2019-10-11T13:01:15.1130632-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-11T13:01:15.1130632-03:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'TesteJoyce:TesteJoyce.PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta(Table)' should have 0 parameters
+2019-10-11T13:01:15.1130632-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-11T13:01:15.1130632-03:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'TesteJoyce:TesteJoyce.PesquisaDePassagemSteps.QuandoSelecionoAQuantidadeDePassageiros(Table)' should have 0 parameters
+2019-10-11T13:01:15.1130632-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-11T13:01:15.1140607-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T13:01:15.1140607-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-11T13:01:15.1140607-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T13:01:15.1140607-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-11T13:01:15.1140607-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-11T13:01:15.1140607-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-11T13:01:15.1140607-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-11T13:01:15.1140607-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-11T13:01:15.1140607-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-11T13:01:15.1140607-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-11T13:01:15.1140607-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-11T13:01:15.1140607-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-11T13:01:15.1150808-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 12,9030353 seconds
+2019-10-11T13:01:15.1150808-03:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-11T13:01:15.1150808-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-11T13:01:17.4111866-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (2,3s)
+2019-10-11T13:01:17.4111866-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-11T13:01:27.8389577-03:00:Thread#0:T:error: Timed out after 10 seconds
+2019-10-11T13:01:27.8389577-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-11T13:01:27.8389577-03:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'TesteJoyce:TesteJoyce.PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta(Table)' should have 0 parameters
+2019-10-11T13:01:27.8389577-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-11T13:01:27.8389577-03:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'TesteJoyce:TesteJoyce.PesquisaDePassagemSteps.QuandoSelecionoAQuantidadeDePassageiros(Table)' should have 0 parameters
+2019-10-11T13:01:27.8389577-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-11T13:01:27.8389577-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T13:01:27.8389577-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-11T13:01:27.8389577-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T13:01:27.8389577-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-11T13:01:27.8399546-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-11T13:01:27.8399546-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-11T13:01:27.8399546-03:00:Thread#0:Scheduler: No more tests for thread
+2019-10-11T13:01:27.8409520-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 12,7258712 seconds
+2019-10-11T13:01:27.8549153-03:00:Appdomain Disposed
+2019-10-11T13:01:27.8559124-03:00:Trying to cancel thread
+2019-10-11T13:01:27.8559124-03:00:Thread cancelled
+2019-10-11T13:01:27.8599294-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-11T13:01:27.8599294-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-11T13:01:27.8599294-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-11T13:01:27.8638920-03:00;Thread#13;Info;test run finished
+2019-10-11T13:01:27.8638920-03:00;Thread#13;Info;publishing test results
+2019-10-11T13:01:27.8788816-03:00;Thread#13;Info;test results published
+2019-10-11T13:01:27.8788816-03:00;Thread#13;Info;generating reports
+2019-10-11T13:01:27.9496616-03:00;Thread#13;Info;Starting external report generation process
+2019-10-11T13:01:29.0249552-03:00;Thread#13;Info;Successfully generated reports.
+2019-10-11T13:01:29.0259528-03:00;Thread#13;Info;Successfully generated reports
+2019-10-11T13:01:29.0309674-03:00:Total: 1 (test executions: 3)
+2019-10-11T13:01:29.0319393-03:00:Succeeded: 0
+2019-10-11T13:01:29.0319393-03:00:Ignored: 0
+2019-10-11T13:01:29.0329349-03:00:Pending: 0
+2019-10-11T13:01:29.0329349-03:00:Skipped: 0
+2019-10-11T13:01:29.0329349-03:00:Failed: 1
+2019-10-11T13:01:29.0399440-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-11T13:01:29.0399440-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-11T130032.html'
+========== End of log file ==========

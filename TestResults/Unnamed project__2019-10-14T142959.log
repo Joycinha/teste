@@ -1,0 +1,129 @@
+﻿2019-10-14T14:29:59.8607361-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T14:29:59.8607361-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T14:29:59.8607361-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T14:29:59.9245703-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-14T14:29:59.9245703-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults" (default)
+2019-10-14T14:29:59.9245703-03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T14:29:59.9394981-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-14T142959.log
+2019-10-14T14:29:59.9474782-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T14:29:59.9515007-03:00;Thread#17;Info;Checking license
+2019-10-14T14:29:59.9664271-03:00;Thread#17;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-10-14T14:30:09.9677373-03:00;Thread#17;Info;Evaluation delay finished.
+2019-10-14T14:30:09.9707056-03:00;Thread#17;Info;License check completed
+2019-10-14T14:30:09.9707056-03:00;Thread#17;Info;starting test run
+2019-10-14T14:30:09.9766886-03:00;Thread#17;Info;Discovering target: Default
+2019-10-14T14:30:09.9766886-03:00;Thread#17;Info;Discovering tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-14T14:30:10.0285757-03:00:Appdomain Disposed
+2019-10-14T14:30:10.0285757-03:00;Thread#17;Info;Discovered tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-14T14:30:10.0285757-03:00:Test Suite Dump
+2019-10-14T14:30:10.0305794-03:00:#0: Unnamed project/ - 
+2019-10-14T14:30:10.0305794-03:00:#1: Default - 
+2019-10-14T14:30:10.0305794-03:00:#2: TesteJoyce - 
+2019-10-14T14:30:10.0305794-03:00:#3: Pesquisa de passagem - 
+2019-10-14T14:30:10.0355637-03:00:#4: Pesquisar passagem com menor tarifa para dois adultos - TestAssembly:TesteJoyce/Feature:Pesquisa+de+passagem/Scenario:Pesquisar+passagem+com+menor+tarifa+para+dois+adultos
+2019-10-14T14:30:10.0355637-03:00:End: Test Suite Dump
+2019-10-14T14:30:10.0524872-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T14:30:10.0544809-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-14T14:30:10.0544809-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T14:30:10.0584703-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T14:30:10.0584703-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T14:30:10.0584703-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T14:30:10.0584703-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T14:30:10.0594688-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T14:30:10.0604648-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T14:30:10.0624598-03:00:Thread #0: creating new test thread executor for TesteJoyce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-14T14:30:10.0644538-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T14:30:10.0644538-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T14:30:10.0654514-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-14T14:30:10.1193076-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-14T14:30:10.2549732-03:00:Thread#0:T:-> Loading plugin C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-14T14:30:10.2589648-03:00:Thread#0:T:-> Using default config
+2019-10-14T14:30:10.3148131-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-14T14:30:16.6983809-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (6,3s)
+2019-10-14T14:30:16.6983809-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-14T14:30:18.2951207-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoEuInformoAOrigemEDestino() (1,6s)
+2019-10-14T14:30:18.2951207-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-14T14:30:18.6142680-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta() (0,3s)
+2019-10-14T14:30:18.6142680-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-14T14:30:18.7309560-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoSelecionoAQuantidadeDePassageiros() (0,1s)
+2019-10-14T14:30:18.7309560-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-14T14:30:18.7958098-03:00:Thread#0:T:error: element click intercepted: Element <button type="submit" class="btn-purchase-blue w-140" id="btn-box-buy">...</button> is not clickable at point (683, 456). Other element would receive the click: <td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2019">...</td>
+2019-10-14T14:30:18.7958098-03:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)
+2019-10-14T14:30:18.7958098-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-14T14:30:18.7958098-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T14:30:18.8247066-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-14T14:30:18.8257176-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T14:30:18.8257176-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T14:30:18.8257176-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T14:30:18.8257176-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T14:30:18.8257176-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T14:30:18.8257176-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T14:30:18.8257176-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T14:30:18.8257176-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T14:30:18.8257176-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-14T14:30:18.8336828-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 8,7133779 seconds
+2019-10-14T14:30:18.8346803-03:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-14T14:30:18.8356759-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-14T14:30:22.4118436-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (3,6s)
+2019-10-14T14:30:22.4118436-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-14T14:30:23.8250724-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoEuInformoAOrigemEDestino() (1,4s)
+2019-10-14T14:30:23.8250724-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-14T14:30:24.2280092-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta() (0,4s)
+2019-10-14T14:30:24.2329823-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-14T14:30:24.3476773-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoSelecionoAQuantidadeDePassageiros() (0,1s)
+2019-10-14T14:30:24.3476773-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-14T14:30:24.5602819-03:00:Thread#0:T:done: PesquisaDePassagemSteps.EntaoOSistemaMeRetornaraOResultadoDaPesquisa() (0,2s)
+2019-10-14T14:30:24.5602819-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-14T14:30:24.6001750-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":".lessPrice"}
+2019-10-14T14:30:24.6001750-03:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)
+2019-10-14T14:30:24.6011725-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T14:30:24.6011725-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T14:30:24.6011725-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T14:30:24.6011725-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T14:30:24.6011725-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T14:30:24.6011725-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T14:30:24.6011725-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T14:30:24.6011725-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T14:30:24.6011725-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-14T14:30:24.6021711-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 5,7674908 seconds
+2019-10-14T14:30:24.6021711-03:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-14T14:30:24.6021711-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-14T14:30:27.9028390-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (3,3s)
+2019-10-14T14:30:27.9028390-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-14T14:30:29.3439921-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoEuInformoAOrigemEDestino() (1,4s)
+2019-10-14T14:30:29.3439921-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-14T14:30:29.7022709-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta() (0,4s)
+2019-10-14T14:30:29.7022709-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-14T14:30:29.8179938-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoSelecionoAQuantidadeDePassageiros() (0,1s)
+2019-10-14T14:30:29.8189596-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-14T14:30:29.8608488-03:00:Thread#0:T:error: element click intercepted: Element <button type="submit" class="btn-purchase-blue w-140" id="btn-box-buy">...</button> is not clickable at point (683, 456). Other element would receive the click: <td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2019">...</td>
+2019-10-14T14:30:29.8618470-03:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)
+2019-10-14T14:30:29.8618470-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-14T14:30:29.8618470-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T14:30:29.8618470-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T14:30:29.8618470-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T14:30:29.8618470-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T14:30:29.8618470-03:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T14:30:29.8628443-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 5,2606732 seconds
+2019-10-14T14:30:29.8778317-03:00:Appdomain Disposed
+2019-10-14T14:30:29.8787994-03:00:Trying to cancel thread
+2019-10-14T14:30:29.8787994-03:00:Thread cancelled
+2019-10-14T14:30:29.8838190-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-14T14:30:29.8838190-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T14:30:29.8838190-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-14T14:30:29.8868060-03:00;Thread#17;Info;test run finished
+2019-10-14T14:30:29.8868060-03:00;Thread#17;Info;publishing test results
+2019-10-14T14:30:29.9047301-03:00;Thread#17;Info;test results published
+2019-10-14T14:30:29.9047301-03:00;Thread#17;Info;generating reports
+2019-10-14T14:30:29.9795627-03:00;Thread#17;Info;Starting external report generation process
+2019-10-14T14:30:31.0466828-03:00;Thread#17;Info;Successfully generated reports.
+2019-10-14T14:30:31.0476804-03:00;Thread#17;Info;Successfully generated reports
+2019-10-14T14:30:31.0536658-03:00:Total: 1 (test executions: 3)
+2019-10-14T14:30:31.0546635-03:00:Succeeded: 0
+2019-10-14T14:30:31.0556591-03:00:Ignored: 0
+2019-10-14T14:30:31.0556591-03:00:Pending: 0
+2019-10-14T14:30:31.0556591-03:00:Skipped: 0
+2019-10-14T14:30:31.0566562-03:00:Failed: 1
+2019-10-14T14:30:31.0656342-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-14T14:30:31.0656342-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-14T142959.html'
+========== End of log file ==========

@@ -1,0 +1,126 @@
+﻿2019-10-14T12:17:48.9204193-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T12:17:48.9204193-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T12:17:48.9204193-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T12:17:48.9763069-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-14T12:17:48.9763069-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults" (default)
+2019-10-14T12:17:48.9763069-03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T12:17:48.9902324-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-14T121748.log
+2019-10-14T12:17:48.9962418-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T12:17:49.0002328-03:00;Thread#17;Info;Checking license
+2019-10-14T12:17:49.0132030-03:00;Thread#17;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-10-14T12:18:00.0145982-03:00;Thread#17;Info;Evaluation delay finished.
+2019-10-14T12:18:00.0175902-03:00;Thread#17;Info;License check completed
+2019-10-14T12:18:00.0175902-03:00;Thread#17;Info;starting test run
+2019-10-14T12:18:00.0225772-03:00;Thread#17;Info;Discovering target: Default
+2019-10-14T12:18:00.0235744-03:00;Thread#17;Info;Discovering tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-14T12:18:00.0735082-03:00:Appdomain Disposed
+2019-10-14T12:18:00.0735082-03:00;Thread#17;Info;Discovered tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-14T12:18:00.0735082-03:00:Test Suite Dump
+2019-10-14T12:18:00.0745055-03:00:#0: Unnamed project/ - 
+2019-10-14T12:18:00.0745055-03:00:#1: Default - 
+2019-10-14T12:18:00.0745055-03:00:#2: TesteJoyce - 
+2019-10-14T12:18:00.0745055-03:00:#3: Pesquisa de passagem - 
+2019-10-14T12:18:00.0795196-03:00:#4: Pesquisar passagem com menor tarifa para dois adultos - TestAssembly:TesteJoyce/Feature:Pesquisa+de+passagem/Scenario:Pesquisar+passagem+com+menor+tarifa+para+dois+adultos
+2019-10-14T12:18:00.0795196-03:00:End: Test Suite Dump
+2019-10-14T12:18:00.0954792-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:18:00.0964758-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-14T12:18:00.0964758-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:18:00.0994659-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:18:00.0994659-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:18:00.0994659-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:18:00.0994659-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:18:00.1004637-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:18:00.1004637-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T12:18:00.1024618-03:00:Thread #0: creating new test thread executor for TesteJoyce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-14T12:18:00.1034513-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T12:18:00.1044539-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T12:18:00.1054498-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-14T12:18:00.1542926-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-14T12:18:00.2779916-03:00:Thread#0:T:-> Loading plugin C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-14T12:18:00.2819801-03:00:Thread#0:T:-> Using default config
+2019-10-14T12:18:00.3368072-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-14T12:18:05.5846751-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (5,2s)
+2019-10-14T12:18:05.5866709-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-14T12:18:07.2861474-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoEuInformoAOrigemEDestino() (1,7s)
+2019-10-14T12:18:07.2871420-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-14T12:18:07.4397373-03:00:Thread#0:T:error: Compound class names not allowed. Cannot have whitespace in class name. Use CSS selectors instead.
+2019-10-14T12:18:07.4397373-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-14T12:18:07.4397373-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:07.4397373-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-14T12:18:07.4397373-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:07.4397373-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-14T12:18:07.4407348-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:07.4706549-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-14T12:18:07.4706549-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:18:07.4706549-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T12:18:07.4716506-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:18:07.4716506-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:18:07.4716506-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:18:07.4716506-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:18:07.4716506-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:18:07.4716506-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:18:07.4716506-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-14T12:18:07.4796506-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 7,325358 seconds
+2019-10-14T12:18:07.4806491-03:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-14T12:18:07.4806491-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-14T12:18:10.3000892-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (2,8s)
+2019-10-14T12:18:10.3000892-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-14T12:18:11.7432453-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoEuInformoAOrigemEDestino() (1,4s)
+2019-10-14T12:18:11.7432453-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-14T12:18:11.8948463-03:00:Thread#0:T:error: Compound class names not allowed. Cannot have whitespace in class name. Use CSS selectors instead.
+2019-10-14T12:18:11.8948463-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-14T12:18:11.8958400-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:11.8958400-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-14T12:18:11.8958400-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:11.8958400-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-14T12:18:11.8958400-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:11.8958400-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:18:11.8958400-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T12:18:11.8958400-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:18:11.8958400-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:18:11.8958400-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:18:11.8968371-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:18:11.8968371-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:18:11.8968371-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:18:11.8968371-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-14T12:18:11.8968371-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 4,416188 seconds
+2019-10-14T12:18:11.8968371-03:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-14T12:18:11.8968371-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-14T12:18:14.7317596-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (2,8s)
+2019-10-14T12:18:14.7317596-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-14T12:18:16.1153669-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoEuInformoAOrigemEDestino() (1,4s)
+2019-10-14T12:18:16.1153669-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-14T12:18:16.2679596-03:00:Thread#0:T:error: Compound class names not allowed. Cannot have whitespace in class name. Use CSS selectors instead.
+2019-10-14T12:18:16.2679596-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-14T12:18:16.2679596-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:16.2679596-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-14T12:18:16.2689782-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:16.2689782-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-14T12:18:16.2689782-03:00:Thread#0:T:skipped because of previous errors
+2019-10-14T12:18:16.2689782-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:18:16.2689782-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T12:18:16.2689782-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T12:18:16.2689782-03:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T12:18:16.2699554-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 4,3731183 seconds
+2019-10-14T12:18:16.2839496-03:00:Appdomain Disposed
+2019-10-14T12:18:16.2849420-03:00:Trying to cancel thread
+2019-10-14T12:18:16.2849420-03:00:Thread cancelled
+2019-10-14T12:18:16.2908983-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-14T12:18:16.2908983-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T12:18:16.2908983-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-14T12:18:16.2938897-03:00;Thread#17;Info;test run finished
+2019-10-14T12:18:16.2938897-03:00;Thread#17;Info;publishing test results
+2019-10-14T12:18:16.3098475-03:00;Thread#17;Info;test results published
+2019-10-14T12:18:16.3108445-03:00;Thread#17;Info;generating reports
+2019-10-14T12:18:16.3866446-03:00;Thread#17;Info;Starting external report generation process
+2019-10-14T12:18:17.4817269-03:00;Thread#17;Info;Successfully generated reports.
+2019-10-14T12:18:17.4827245-03:00;Thread#17;Info;Successfully generated reports
+2019-10-14T12:18:17.4877110-03:00:Total: 1 (test executions: 3)
+2019-10-14T12:18:17.4897066-03:00:Succeeded: 0
+2019-10-14T12:18:17.4897066-03:00:Ignored: 0
+2019-10-14T12:18:17.4897066-03:00:Pending: 0
+2019-10-14T12:18:17.4897066-03:00:Skipped: 0
+2019-10-14T12:18:17.4907031-03:00:Failed: 1
+2019-10-14T12:18:17.4966868-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-14T12:18:17.4966868-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-14T121748.html'
+========== End of log file ==========

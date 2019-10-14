@@ -1,0 +1,43 @@
+﻿2019-10-11T13:29:12.9493852-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-11T13:29:12.9493852-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-11T13:29:12.9493852-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-11T13:29:12.9932677-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T13:29:12.9932677-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults" (default)
+2019-10-11T13:29:12.9932677-03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-11T13:29:13.0112195-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-11T132912.log
+2019-10-11T13:29:13.0201950-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-11T13:29:13.0271824-03:00;Thread#13;Info;Checking license
+2019-10-11T13:29:13.0451290-03:00;Thread#13;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2019-10-11T13:29:19.0458451-03:00;Thread#13;Info;Evaluation delay finished.
+2019-10-11T13:29:19.0496706-03:00;Thread#13;Info;License check completed
+2019-10-11T13:29:19.0496706-03:00;Thread#13;Info;starting test run
+2019-10-11T13:29:19.0626287-03:00;Thread#13;Info;Discovering target: Default
+2019-10-11T13:29:19.0626287-03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T13:29:19.4146662-03:00:Appdomain Disposed
+2019-10-11T13:29:19.4146662-03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T13:29:19.4146662-03:00:Test Suite Dump
+2019-10-11T13:29:19.4166882-03:00:#0: Unnamed project/ - 
+2019-10-11T13:29:19.4166882-03:00:#1: Default - 
+2019-10-11T13:29:19.4166882-03:00:#2: TesteJoyce - 
+2019-10-11T13:29:19.4166882-03:00:#3: Pesquisa de passagem - 
+2019-10-11T13:29:19.4466093-03:00:#4: Pesquisar passagem com menor tarifa para dois adultos - TestAssembly:TesteJoyce/Feature:Pesquisa+de+passagem/Scenario:Pesquisar+passagem+com+menor+tarifa+para+dois+adultos
+2019-10-11T13:29:19.4466093-03:00:End: Test Suite Dump
+2019-10-11T13:29:19.4655552-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-11T13:29:19.4665543-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-11T13:29:19.4665543-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-11T13:29:19.4695473-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-11T13:29:19.4695473-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-11T13:29:19.4695473-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-11T13:29:19.4695473-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-11T13:29:19.4705468-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-11T13:29:19.4705468-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-11T13:29:19.4725443-03:00:Thread #0: creating new test thread executor for TesteJoyce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-11T13:29:19.4735107-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-11T13:29:19.4745079-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-11T13:29:19.4755041-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-11T13:29:19.5712481-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-11T13:29:19.7647324-03:00:Thread#0:T:-> Loading plugin C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-11T13:29:19.7737251-03:00:Thread#0:T:-> Using default config
+2019-10-11T13:29:19.8335746-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-11T13:29:25.7261085-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (5,8s)
+2019-10-11T13:29:25.7271061-03:00:Thread#0:B:Quando eu informo a origem e destino

@@ -1,0 +1,90 @@
+﻿2019-10-11T11:30:26.3363306-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-11T11:30:26.3363306-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-11T11:30:26.3363306-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-11T11:30:26.3642286-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T11:30:26.3642286-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults" (default)
+2019-10-11T11:30:26.3642286-03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-11T11:30:26.3791887-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-11T113026.log
+2019-10-11T11:30:26.3871671-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-11T11:30:26.3921544-03:00;Thread#17;Info;Checking license
+2019-10-11T11:30:26.4041549-03:00;Thread#17;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-10-11T11:30:34.4051780-03:00;Thread#17;Info;Evaluation delay finished.
+2019-10-11T11:30:34.4089544-03:00;Thread#17;Info;License check completed
+2019-10-11T11:30:34.4089544-03:00;Thread#17;Info;starting test run
+2019-10-11T11:30:34.4139412-03:00;Thread#17;Info;Discovering target: Default
+2019-10-11T11:30:34.4139412-03:00;Thread#17;Info;Discovering tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T11:30:34.4628383-03:00:Appdomain Disposed
+2019-10-11T11:30:34.4628383-03:00;Thread#17;Info;Discovered tests from assembly: C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\TesteJoyce.dll
+2019-10-11T11:30:34.4638082-03:00:Test Suite Dump
+2019-10-11T11:30:34.4648056-03:00:#0: Unnamed project/ - 
+2019-10-11T11:30:34.4648056-03:00:#1: Default - 
+2019-10-11T11:30:34.4648056-03:00:#2: TesteJoyce - 
+2019-10-11T11:30:34.4648056-03:00:#3: Pesquisa de passagem - 
+2019-10-11T11:30:34.4697920-03:00:#4: Pesquisar passagem com menor tarifa para dois adultos - TestAssembly:TesteJoyce/Feature:Pesquisa+de+passagem/Scenario:Pesquisar+passagem+com+menor+tarifa+para+dois+adultos
+2019-10-11T11:30:34.4697920-03:00:End: Test Suite Dump
+2019-10-11T11:30:34.4857817-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-11T11:30:34.4867820-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-11T11:30:34.4867820-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-11T11:30:34.4897715-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-11T11:30:34.4897715-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-11T11:30:34.4897715-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-11T11:30:34.4897715-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-11T11:30:34.4907691-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-11T11:30:34.4907691-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-11T11:30:34.4927634-03:00:Thread #0: creating new test thread executor for TesteJoyce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-11T11:30:34.4947372-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-11T11:30:34.4947372-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-11T11:30:34.4957549-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-11T11:30:34.6171514-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-11T11:30:34.7577761-03:00:Thread#0:T:-> Loading plugin C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TesteJoyce\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-11T11:30:34.7627628-03:00:Thread#0:T:-> Using default config
+2019-10-11T11:30:34.8186127-03:00:Thread#0:B:Dado que eu acesse o site da Gol
+2019-10-11T11:30:39.4218378-03:00:Thread#0:T:done: PesquisaDePassagemSteps.DadoQueEuAcesseOSiteDaGol() (4,5s)
+2019-10-11T11:30:39.4278229-03:00:Thread#0:B:Quando eu informo a origem e destino
+2019-10-11T11:30:39.4288190-03:00:Thread#0:B:  --- table step argument ---
+2019-10-11T11:30:39.4288190-03:00:Thread#0:B:  | origem | destino |
+2019-10-11T11:30:39.4288190-03:00:Thread#0:B:  | SDU    | GRU     |
+2019-10-11T11:30:39.4318106-03:00:Thread#0:T:done: PesquisaDePassagemSteps.QuandoEuInformoAOrigemEDestino(<table>) (0,0s)
+2019-10-11T11:30:39.4318106-03:00:Thread#0:B:E seleciono a data de ida e de volta
+2019-10-11T11:30:39.4318106-03:00:Thread#0:B:  --- table step argument ---
+2019-10-11T11:30:39.4318106-03:00:Thread#0:B:  | ida       | volta        |
+2019-10-11T11:30:39.4318106-03:00:Thread#0:B:  | atual + 1 | 15 de agosto |
+2019-10-11T11:30:39.4896571-03:00:Thread#0:T:pending: PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta(<table>)
+2019-10-11T11:30:39.4896571-03:00:Thread#0:B:E seleciono a quantidade de passageiros
+2019-10-11T11:30:39.4896571-03:00:Thread#0:B:  --- table step argument ---
+2019-10-11T11:30:39.4896571-03:00:Thread#0:B:  | quantidade | passageiro |
+2019-10-11T11:30:39.4896571-03:00:Thread#0:B:  | 2          | adultos    |
+2019-10-11T11:30:39.4896571-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T11:30:39.4896571-03:00:Thread#0:B:Então o sistema me retornará o resultado da pesquisa
+2019-10-11T11:30:39.4896571-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T11:30:39.4896571-03:00:Thread#0:B:E eu selecionarei a menor tarifa do dia
+2019-10-11T11:30:39.4896571-03:00:Thread#0:T:skipped because of previous errors
+2019-10-11T11:30:39.4956409-03:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-10-11T11:30:39.4956409-03:00:Thread#0:T:  PesquisaDePassagemSteps.QuandoSelecionoADataDeIdaEDeVolta(<table>)
+2019-10-11T11:30:39.5006283-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-11T11:30:39.5006283-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-11T11:30:39.5006283-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-11T11:30:39.5006283-03:00:Thread#0:Scheduler: No more tests for thread
+2019-10-11T11:30:39.5086073-03:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 4,8904585 seconds
+2019-10-11T11:30:39.5245638-03:00:Appdomain Disposed
+2019-10-11T11:30:39.5255618-03:00:Trying to cancel thread
+2019-10-11T11:30:39.5255618-03:00:Thread cancelled
+2019-10-11T11:30:39.5325421-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-11T11:30:39.5325421-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-11T11:30:39.5325421-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-11T11:30:39.5335394-03:00;Thread#17;Info;test run finished
+2019-10-11T11:30:39.5335394-03:00;Thread#17;Info;publishing test results
+2019-10-11T11:30:39.5534864-03:00;Thread#17;Info;test results published
+2019-10-11T11:30:39.5534864-03:00;Thread#17;Info;generating reports
+2019-10-11T11:30:39.6333013-03:00;Thread#17;Info;Starting external report generation process
+2019-10-11T11:30:40.8246042-03:00;Thread#17;Info;Successfully generated reports.
+2019-10-11T11:30:40.8256011-03:00;Thread#17;Info;Successfully generated reports
+2019-10-11T11:30:40.8325820-03:00:Total: 1
+2019-10-11T11:30:40.8345767-03:00:Succeeded: 0
+2019-10-11T11:30:40.8345767-03:00:Ignored: 0
+2019-10-11T11:30:40.8345767-03:00:Pending: 1
+2019-10-11T11:30:40.8345767-03:00:Skipped: 0
+2019-10-11T11:30:40.8355740-03:00:Failed: 0
+2019-10-11T11:30:40.8455493-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-11T11:30:40.8455493-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\JoyceCarolina\Source\Repos\TesteJoyce\TestResults\Unnamed project__2019-10-11T113026.html'
+========== End of log file ==========
